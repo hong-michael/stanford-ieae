@@ -8,4 +8,4 @@ permalink: /
 
 ### About the Lab
 
-[Introduction home page about the lab.]
+[Introduction home page about Stanford Impact Labs/Irene Lo lab, giving an overview of the project.]
