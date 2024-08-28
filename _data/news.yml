@@ -1,21 +1,14 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 08/27/24
+  title: "Current working papers"
   tags:
     - some
     - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+  content: [Insert some news about recent conferences, working papers, and
+  collaborations with the district.]
 
-- date: 03/09/19
-  title: "Something great"
+- date: 05/01/24
+  title: "Previous recent work"
   tags:
     - some
     - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+  content: [Insert some news about previous, also recent work.]
