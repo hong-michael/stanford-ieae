@@ -3,12 +3,12 @@
   tags:
     - some
     - tags
-  content: [Insert some news about recent conferences, working papers, and
-  collaborations with the district.]
+  content: "[Insert some news about recent conferences, working papers, and
+  collaborations with the district.]"
 
 - date: 05/01/24
   title: "Previous recent work"
   tags:
     - some
     - tags
-  content: [Insert some news about previous, also recent work.]
+  content: "[Insert some news about previous, also recent work.]"
