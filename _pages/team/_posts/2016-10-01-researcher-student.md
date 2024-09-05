@@ -1,9 +1,9 @@
 ---
 layout: member
 category: student
-title: Researcher Name
+title: Michael Peter Hong
 image: researcher.png
-role: PhD Student
+role: Project Manager
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
