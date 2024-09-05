@@ -1,9 +1,9 @@
 ---
 layout: member
 category: student
-title: Michael Peter Hong
+title: Kumar Chandra
 image: researcher.png
-role: Project Manager
+role: Undergraduate Research Assistant
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
