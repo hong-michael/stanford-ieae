@@ -1,7 +1,7 @@
 ---
 layout: member
 category: student
-title: Kumar Chandra
+title: Placeholder
 image: researcher.png
 role: Undergraduate Research Assistant
 permalink: 'team/researcher-name'
