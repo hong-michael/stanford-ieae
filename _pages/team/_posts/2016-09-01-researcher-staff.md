@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Irene Lo
 image: researcher.png
-role: Lab Director
+role: Principal Investigator
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
